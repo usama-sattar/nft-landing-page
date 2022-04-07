@@ -1,9 +1,8 @@
-import { Avatar, Box, Typography } from "@mui/material";
+import {Box, Typography } from "@mui/material";
 import React from "react";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import InstagramIcon from "@mui/icons-material/Instagram";
-import SvgIcon from "@mui/material/SvgIcon";
 
 export default function Footer() {
   return (
